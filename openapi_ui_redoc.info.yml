@@ -1,7 +1,6 @@
 name: ReDoc for OpenAPI UI
 type: module
 description: Provides display of OpenAPI docs using the ReDoc library.
-core: 8.x
 core_version_requirement: '^8 || ^9'
 package: OpenAPI
 dependencies:

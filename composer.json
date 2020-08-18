@@ -1,0 +1,12 @@
+{
+    "name": "drupal/openapi_ui_redoc",
+    "description": "Provides display of OpenAPI docs using the ReDoc library.",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/openapi_ui_redoc",
+    "license": "GPL-2.0+",
+    "support": {
+      "issues": "https://www.drupal.org/project/issues/openapi_ui_redoc",
+      "source": "https://www.drupal.org/project/openapi_ui_redoc"
+    }
+  }
+  
